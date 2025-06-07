@@ -42,4 +42,6 @@ This project is also a demonstration of asynchronous programming with JavaScript
 
 In conclusion, this responsive webpage effectively demonstrates how to integrate external data sources into a modern frontend project using public APIs. By leveraging basic web technologies and developer tools, the project offers a strong introduction to real-time web development, dynamic data handling, and responsive design—skills essential in today's data-driven web landscape.
 
+#OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/6a29e9b1-9b42-4c22-9b12-e269493e76a2)
